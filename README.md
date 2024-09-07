@@ -8,3 +8,5 @@ A relevant research paper titled Jammer Classification in GNSS Bands Via Machine
 By leveraging advanced image classification techniques, optimized preprocessing steps, and improved dataset partitioning, I have achieved a remarkable increase in accuracy—exceeding the results presented in the aforementioned paper by over 6%.
 
 I am currently focused on enhancing the machine learning components of this project. Please stay tuned for future commits and updates.
+
+If you require any additional information, please don't hesitate to reach out to me via [email](alighdlcv2025@gmail.com).
