@@ -1,4 +1,5 @@
 # GNSS/GPS Jamming Detection and Classification Using Machine Learning, Deep Learning, and Computer Vision
+This project is about a master's thesis, where I served as a mentor at the Iran University of Science and Technology (IUST).
 
 All the code for this project has been developed in Python, utilizing Google Colaboratory for execution.
 The original dataset, known as the Raw IQ dataset for GNSS GPS jamming signal classification, can be accessed [here]( https://zenodo.org/records/4629685).
