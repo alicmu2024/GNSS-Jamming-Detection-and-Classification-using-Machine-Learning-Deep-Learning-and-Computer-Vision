@@ -1,5 +1,5 @@
 # GNSS/GPS Jamming Detection and Classification Using Machine Learning, Deep Learning, and Computer Vision
-This project is about a master's thesis, where I served as a mentor at the Iran University of Science and Technology (IUST).
+
 
 I have provided a Google Colaboratory link for each Jupyter Notebook (.ipynb) file. Feel free to open the code files and run them effortlessly.
 
@@ -13,3 +13,5 @@ By leveraging advanced image classification techniques, optimized preprocessing 
 I am currently focused on enhancing the machine learning components of this project. Please stay tuned for future commits and updates.
 
 If you require any additional information, please don't hesitate to reach out to me via [email](alighdlcv2025@gmail.com).
+
+I am going to add GPS spoofing detection to this repository, as well. 
