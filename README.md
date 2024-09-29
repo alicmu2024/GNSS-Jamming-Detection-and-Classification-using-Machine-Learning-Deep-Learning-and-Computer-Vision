@@ -1,4 +1,4 @@
-# GNSS/GPS Jamming Detection and Classification Using Machine Learning, Deep Learning, and Computer Vision
+# GNSS/GPS Spoofing and Jamming Detection and Classification Using Machine Learning, Deep Learning, and Computer Vision
 
 
 I have provided a Google Colaboratory link for each Jupyter Notebook (.ipynb) file. Feel free to open the code files and run them effortlessly.
