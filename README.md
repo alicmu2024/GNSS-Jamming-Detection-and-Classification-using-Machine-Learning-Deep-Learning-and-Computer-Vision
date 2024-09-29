@@ -14,4 +14,4 @@ I am currently focused on enhancing the machine learning components of this proj
 
 If you require any additional information, please don't hesitate to reach out to me via [email](alighdlcv2025@gmail.com).
 
-I am going to add GPS spoofing detection to this repository, as well. 
+## This repository will undergo extensive updates. Stay tuned!
