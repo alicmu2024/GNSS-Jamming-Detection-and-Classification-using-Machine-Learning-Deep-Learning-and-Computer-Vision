@@ -15,4 +15,6 @@ I am currently focused on enhancing the machine learning components of this proj
 
 If you require any additional information, please don't hesitate to reach out to me via [email](alighdlcv2025@gmail.com).
 
+The GPS Spoofing code have been added to the repo. In the next modification, I am going to utilize unsupervised learning techniques in order to enhance the robustness of the supervised learning methods.
+
 ## This repository will undergo extensive updates. Stay tuned!
